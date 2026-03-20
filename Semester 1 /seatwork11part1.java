@@ -1,4 +1,4 @@
-public class seatwork11 {
+public class seatwork11part1 {
  public static void main(String[] args) {
  int[][] myNumbers = { {1, 4, 2}, {3, 6, 8} };
  myNumbers[1][2] = 9;
