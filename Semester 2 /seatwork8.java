@@ -20,9 +20,9 @@ public class seatwork8 {
 	public static void main(String[]args) {
 		System.out.println("=== Student Record System Started ===");
 		ArrayList<Student> students = new ArrayList<>();
-	students.add(new Student(1, "Aejie"));
-	students.add(new Student(2, "Alecto"));
-	students.add(new Student(3, "Bendecto"));
+	students.add(new Student(1, "Rouel"));
+	students.add(new Student(2, "Yasuo"));
+	students.add(new Student(3, "Estes"));
 	System.out.println("\n-- Display Student Record --");
 	for (Student s : students) {
 		s.displayInfo();
