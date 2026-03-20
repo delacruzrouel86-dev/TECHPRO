@@ -1,4 +1,4 @@
-public class SEATWORK5 {
+public class seatwork5 {
     public static void main(String[] args) {    
  int countdown = 3;
  while (countdown > 0) {
