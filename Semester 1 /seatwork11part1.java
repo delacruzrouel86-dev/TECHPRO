@@ -5,3 +5,4 @@ public class seatwork11part1 {
  System.out.println(myNumbers[1][2]);
  }
 }
+ 
